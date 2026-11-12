@@ -1,6 +1,14 @@
-<link rel="stylesheet" href="style.css">
 <body> 
 
- <backegrond-color:></backegrond-color:></backegrond->   
-
+ <backegrond-color:red
 </body>
+<cabeçalho {
+    margin-botom: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid green;
+    background-image: url(wp9212011.jpg);
+    background-size: cover;
+    background-position: 50% 75%;
+}
